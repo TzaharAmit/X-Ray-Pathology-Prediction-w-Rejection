@@ -30,7 +30,7 @@ xrv_test.py
 ### Applying Rejection Mechanisms - ADD
 To apply a rejection mechanism,
 ```bash
-???.py 
+Rejection.py 
 ```
 
 ## Results & Evaluation
