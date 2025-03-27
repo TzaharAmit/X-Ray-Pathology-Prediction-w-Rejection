@@ -33,6 +33,13 @@ To apply a rejection mechanism,
 Rejection.py 
 ```
 
+### Applying Entropy-based Rejection Mechanisms
+To apply a rejection mechanism,
+```bash
+Rejection_Entropy_split1.py
+Rejection_Entropy_split2.py 
+```
+
 ## Results & Evaluation
 Evaluation is performed by analyzing the model AUC with and without rejection. The key metrics include:
 - **AUC (Area Under Curve)**
