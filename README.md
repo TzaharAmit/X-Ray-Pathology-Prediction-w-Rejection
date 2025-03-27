@@ -28,13 +28,13 @@ xrv_test.py
 ```
 
 ### Applying Rejection Mechanisms - ADD
-To apply a rejection mechanism,
+To apply a rejection mechanism:
 ```bash
 Rejection.py 
 ```
 
 ### Applying Entropy-based Rejection Mechanisms
-To apply a rejection mechanism,
+To apply a rejection mechanism:
 ```bash
 Rejection_Entropy_split1.py
 Rejection_Entropy_split2.py 
